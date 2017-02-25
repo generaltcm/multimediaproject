@@ -1,1 +1,20 @@
+#headline {
+    padding-top: 55px;
+    text-align: center;
+    font-family: serif;
+    font-size: 75px;
+}
 
+#subhead {
+    text-align: center;
+    font-family: serif;
+    font-size: 21px;
+    color: darkgray;
+}
+
+#byline {
+    text-align: center;
+    font-family: serif;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
