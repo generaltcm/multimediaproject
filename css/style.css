@@ -38,3 +38,18 @@
   padding-bottom: 15px;
   margin-right: 10px;
 }
+
+.paragraph {
+    font-family: serif;
+    font-size: 17px;
+    padding-bottom: 25px;
+}
+
+.jumbotron {
+    position: relative;
+    background: #000 url("http://www.athensgahomes.com/wp-content/uploads/2015/05/athens-ga-real-estate-downtown1.jpg") center;
+    width: 100%;
+    height: 650px;
+    background-size: cover;
+    overflow: hidden;
+}
