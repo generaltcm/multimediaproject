@@ -69,6 +69,21 @@ footer {
     padding-top: 7px;
 }
 
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:80%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    padding-bottom: 25px;
+}
+
 .jumbotron {
     position: relative;
     background: #000 url("http://www.athensgahomes.com/wp-content/uploads/2015/05/athens-ga-real-estate-downtown1.jpg") center;
