@@ -71,7 +71,7 @@ footer {
 
 .map-responsive{
     overflow:hidden;
-    padding-bottom:80%;
+    padding-bottom:75%;
     position:relative;
     height:0;
 }
@@ -81,7 +81,6 @@ footer {
     height:100%;
     width:100%;
     position:absolute;
-    padding-bottom: 25px;
 }
 
 .jumbotron {
