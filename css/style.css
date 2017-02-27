@@ -32,6 +32,12 @@
     padding-bottom: 20px;
 }
 
+.bottompp {
+    font-family: serif;
+    font-size: 17px;
+    padding-top: px;
+}
+
 .dropcap {
   color: white;
   float: left;
@@ -90,4 +96,8 @@ footer {
     height: 650px;
     background-size: cover;
     overflow: hidden;
+}
+
+.gap-left {
+    margin-left: 20px; 
 }
