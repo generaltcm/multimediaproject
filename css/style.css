@@ -59,10 +59,14 @@
     color: darkred
 }
 
-footer {
+.person {
     text-align: center;
     font-family: Georgia;
     color: darkgray;
+}
+
+footer {
+    padding-top: 7px;
 }
 
 .jumbotron {
