@@ -1,1 +1,74 @@
+#headline {
+    padding-top: 75px;
+    text-align: center;
+    font-family: serif;
+    font-size: 75px;
+}
 
+#subhead {
+    text-align: center;
+    font-family: serif;
+    font-size: 20px;
+    color: darkgray;
+}
+
+#byline {
+    text-align: center;
+    font-family: serif;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+
+.dropcap {
+  color: white;
+  float: left;
+  font-family: serif;
+  font-size: 85px;
+  background-color: darkred;
+  line-height: 50px;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  margin-right: 10px;
+
+}
+
+.firstp {
+    font-family: serif;
+    font-size: 19px;
+    padding-top: 90px;
+    padding-bottom: 20px;
+}
+
+
+.paragraph {
+    font-family: serif;
+    font-size: 19px;
+    padding-bottom: 20px;
+}
+
+.bottomp {
+    font-family: serif;
+    font-size: 19px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+
+.quote {
+    text-align: center;
+    font-family: Georgia;
+    font-size: 25px;
+    color: darkred
+}
+
+footer {
+    padding-top: 7px;
+    padding-bottom: 10px;
+}
+
+.person {
+    text-align: center;
+    font-family: Georgia;
+    color: darkgray;
+}
