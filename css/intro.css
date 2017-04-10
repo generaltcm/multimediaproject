@@ -14,7 +14,7 @@
 
 #byline {
     text-align: center;
-    font-family: 'Scope One', serif;
+    font-family: 'Slabo 27px', serif;
     font-size: 20px;
     padding-bottom: 30px;
 }
@@ -22,7 +22,7 @@
 .dropcap {
   color: white;
   float: left;
-  font-family: 'Scope One', serif;
+  font-family: 'Slabo 27px', serif;
   font-size: 85px;
   background-color: darkred;
   line-height: 50px;
@@ -35,14 +35,14 @@
 }
 
 .firstp {
-    font-family: 'Scope One', serif;
+    font-family: 'Slabo 27px', serif;
     font-size: 19px;
     padding-bottom: 20px;
 }
 
 
 .paragraph {
-    font-family: 'Scope One', serif;
+    font-family: 'Slabo 27px', serif;
     font-size: 19px;
     padding-bottom: 20px;
 }
