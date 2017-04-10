@@ -9,7 +9,8 @@
 #subhead {
     text-align: center;
     font-family: 'Raleway', sans-serif;
-    font-weight: 500, italic;
+    font-weight: 400;
+    font-style: italic;
     font-size: 20px;
     color: darkgray;
 }
@@ -17,7 +18,7 @@
 #byline {
     text-align: center;
     font-family: 'Raleway', sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 20px;
     padding-bottom: 30px;
 }
@@ -26,7 +27,7 @@
   color: white;
   float: left;
   font-family: 'Raleway', sans-serif;
-  font-weight: 400;
+  font-weight: 500;
   font-size: 85px;
   background-color: darkred;
   line-height: 50px;
