@@ -17,7 +17,8 @@
 
 #byline {
     text-align: center;
-    font-family: serif;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
     font-size: 20px;
     padding-bottom: 30px;
 }
