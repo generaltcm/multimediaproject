@@ -72,9 +72,9 @@
 }
 
 .quote {
+    text-align: center;
     font-family: 'Raleway', sans-serif;
     font-weight: 900;
-    font-family: Georgia;
     font-size: 25px;
     color: darkred
 }
@@ -85,9 +85,9 @@ footer {
 }
 
 .person {
+    text-align: center;
     font-family: 'Raleway', sans-serif;
     font-weight: 500;
-    font-family: Georgia;
     color: darkgray;
 }
 
