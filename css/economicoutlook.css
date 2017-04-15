@@ -112,6 +112,7 @@ footer {
 
 #caption {
     font-family: 'Raleway', sans-serif;
+    font-style: italic;
     font-weight: 500;
     color: darkgray;
 }
