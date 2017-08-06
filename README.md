@@ -3,4 +3,4 @@ Downtown Athens economic story project for JRMC 7012, Emerging Media Storytellin
 
 All contents of this story (text, picture, video, graphics, etc.) are copyright of generaltcm, unless noted in the story.
 
-Users may not copy any contents of the story (text, picture, video, graphics, etc.) unless given permission by generaltcm.
+Users may not copy any contents of the story (text, picture, video, graphics, etc.) unless given permission by tcm20557.
